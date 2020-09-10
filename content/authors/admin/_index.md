@@ -37,7 +37,7 @@ education:
       year: 2017
     - course: "MSc. "
       institution: International Centre for Advanced Mediterranean Agronomic Studies
-      year: 2007
+      year: 2013
     - course: BSc. Veterinary Medicine
       institution: UNAH
       year: 2004

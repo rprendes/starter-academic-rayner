@@ -25,7 +25,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
-    icon_pack: ai
+    icon_pack: fab
     link: https://scholar.google.com/citations?hl=en&user=W49tKRgAAAAJ
   - icon: github
     icon_pack: fab

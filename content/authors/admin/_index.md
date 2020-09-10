@@ -6,7 +6,7 @@ superuser: true
 authors:
   - admin
 title: Rayner González Prendes
-role: Postdoctoral Position at WUR
+role: Researcher
 avatar_filename: img_1080.jpg
 bio: "My immediate goals are strongly oriented to the investigation on animal
   breeding, genetics, and genomics in livestock populations to satisfy the needs

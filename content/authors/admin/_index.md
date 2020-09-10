@@ -6,7 +6,7 @@ superuser: true
 authors:
   - admin
 title: Rayner González Prendes
-role: PhD. Animal Production
+role: Postdoctoral Position at WUR
 avatar_filename: img_1080.jpg
 bio: "My immediate goals are strongly oriented to the investigation on animal
   breeding, genetics, and genomics in livestock populations to satisfy the needs
@@ -32,12 +32,12 @@ social:
     link: https://github.com/gcushen
 education:
   courses:
-    - course: "MSc. "
-      institution: International Centre for Advanced Mediterranean Agronomic Studies
-      year: 2007
     - course: PhD. Animal Production
       institution: Autonomous University of Barcelona
       year: 2017
+    - course: "MSc. "
+      institution: International Centre for Advanced Mediterranean Agronomic Studies
+      year: 2007
     - course: BSc. Veterinary Medicine
       institution: UNAH
       year: 2004

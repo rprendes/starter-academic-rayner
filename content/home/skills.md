@@ -37,7 +37,13 @@ subtitle = ""
   icon_pack = "fab"
   name = "Python"
   description = "20%"
- 
+  
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "MySQL"
+  description = "20%"
+  
 
 # Uncomment to use emoji icons.
 # [[feature]]

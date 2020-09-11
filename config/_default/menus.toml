@@ -24,7 +24,7 @@
   weight = 40
 
 [[main]]
-  name = "Company"
+  name = "DataOmics"
   url = "https://dataomics.tech/"
   weight = 50
 

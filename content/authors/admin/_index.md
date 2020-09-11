@@ -46,4 +46,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I have worked extensively with a wide range of statistical genetic tools. I am well-trained in the use of Linux, R software environment, MySQL and Python for large datasets from pedigree data, whole genome sequences, RNA-seq, and/or microbiota data and its integration to understand the genetic basis of complex traits.
+Clinically prepared veterinarian with experience in a wide range of statistical genetic tools. I am well-trained in the use of Linux, R software environment, MySQL and Python for large datasets from pedigree data, whole genome sequences, RNA-seq, and/or microbiota data and its integration to understand the genetic basis of complex traits.

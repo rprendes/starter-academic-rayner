@@ -24,13 +24,7 @@ date_format = "Jan 2006"
   location = "Spain"
   date_start = "2017-06-01"
   date_end = "2019-06-01"
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * GWAS
-  """
+  description = """"""
 
 [[experience]]
   title = "Professor"

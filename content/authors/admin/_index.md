@@ -10,7 +10,7 @@ role: Researcher
 avatar_filename: img_1080.jpg
 Short: "My immediate goals are strongly oriented to the investigation on animal
   breeding, genetics, and genomics in livestock populations to satisfy the needs
-  of breeders and the industry. "
+  of breeders and the industry."
 interests:
   - Animal Production
   - Animal Breeding
@@ -46,4 +46,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Clinically prepared veterinarian with experience in a wide range of statistical genetic tools. I am well-trained in the use of Linux, R software environment, MySQL and Python for large datasets from pedigree data, whole genome sequences, RNA-seq, and/or microbiota data and its integration to understand the genetic basis of complex traits.
+Veterinarian with experience in a wide range of statistical genetic tools. I am well-trained in the use of Linux, R software environment, MySQL and Python for large datasets from pedigree data, whole genome sequences, RNA-seq, and/or microbiota data and its integration to understand the genetic basis of complex traits.

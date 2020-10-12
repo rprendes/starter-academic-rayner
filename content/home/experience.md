@@ -13,7 +13,7 @@ subtitle = ""
 date_format = "Jan 2006"
 
 # Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Add/remove as many `[[Projects]]` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
@@ -29,15 +29,16 @@ date_format = "Jan 2006"
   
   * Analysing
   * Modelling
+  
   """
 
-[[experience]]
+[[Projects]]
   title = "Professor"
   company = "University X"
   company_url = ""
   location = ""
   date_start = "2016-01-01"
   date_end = "2016-12-31"
-  description = """."""
+  description = """Test"""
 
 +++

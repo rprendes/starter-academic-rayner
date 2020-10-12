@@ -22,9 +22,9 @@ date_format = "Jan 2006"
   company = "University of Lleida "
   company_url = "https://www.udl.cat/ca/en/udl/presentation/"
   location = "Sapin"
-  date_start = "2017-06-01"
-  date_end = "2019-06-01"
-  description = """
+  date_start = "Jun 2017"
+  date_end = "Jul 2019"
+  description = ""
   Responsibilities include:
   
   * Analysing

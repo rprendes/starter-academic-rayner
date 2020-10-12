@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "Test"
 
 # Date format for Projects
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[Projects]]
   title = "Genomic selection for the improvement of pork meat quality"
   company = "University of Lleida "
@@ -35,9 +36,9 @@ date_format = "Jan 2006"
   title = "Professor"
   company = "University X"
   company_url = ""
-  location = ""
+  location = "California"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
-  description = """Test"""
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++

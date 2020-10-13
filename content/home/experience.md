@@ -29,11 +29,12 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Genomic Pysiology of Porcine Intramuscular Fat"
-  company = "Autonomous University of Barcelona, Centre for research in agricultural Genomics"
-  company_url = "https://www.uab.cat/en/; https://www.cragenomica.es/"
+  company = "Autonomous University of Barcelona-Centre for research in agricultural Genomics"
+  company_url = "https://www.cragenomica.es/"
   location = "Spain"
   date_start = "2015-06-01"
   date_end = "2019-06-01"
   description = """"""
+  
 
 +++

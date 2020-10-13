@@ -17,11 +17,30 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "IMAGE"
+  company = "Wageningen University & Research. Animal Genomic Group"
+  company_url = "http://www.imageh2020.eu/"
+  image = "static/media/piglet-1639587_1920.jpg"
+  location = "The Netherlands"
+  date_start = "2019-07-01"
+  date_end = ""
+  description = """Develop genomic methodologies, biotechnologies, and bioinformatics for a better knowledge and explotation of animal genetic resources"""
+
+[[experience]]
+  title = "OPTIBOV"
+  company = "Wageningen University & Research. Animal Genomic Group"
+  company_url = "https://www.optibov.com/"
+  location = "The Netherlands"
+  date_start = "2019-07-01"
+  date_end = ""
+  description = """To characterize traditional (locally adapted) cattle breeds to detect and use genetic variant associated with adaptation to local ecosystems to improving breeding schemes for the future (production, longevity, disease resistance)"""
+
 [[experience]]
   title = "Genomic selection for the improvement of pork meat quality"
   company = "University of Lleida"
   company_url = "https://www.udl.cat/ca/en/udl/presentation/"
-  image = "static/media/piglet-1639587_1920.jpg"
   location = "Spain"
   date_start = "2017-06-01"
   date_end = "2019-06-01"

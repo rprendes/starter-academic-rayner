@@ -14,9 +14,9 @@ external_link: "https://www.optibov.com/"
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image: "logo_black.png"
+image: logo_black.png
   caption: ""
-  focal_point: "BottomRight"
+  focal_point: BottomRight
   preview_only: true
 
 # Custom links (optional).

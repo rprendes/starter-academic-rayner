@@ -5,7 +5,7 @@ organizations:
 superuser: true
 authors:
   - admin
-title: ""
+title:
 role: Researcher
 avatar_filename: img_1080.jpg
 Short: "My immediate goals are strongly oriented to the investigation on animal

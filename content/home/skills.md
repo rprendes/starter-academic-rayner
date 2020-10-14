@@ -44,7 +44,7 @@ subtitle = ""
   name = "MySQL"
   description = "20%"
   
- [background]
+[design.background]
   # Background color.
   # color = "navy"
   
@@ -62,6 +62,11 @@ subtitle = ""
   # Text color (true=light or false=dark).
   text_color_light = true
 
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["10px", "0", "10px", "0"]
+  
+  
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"

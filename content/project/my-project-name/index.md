@@ -16,8 +16,8 @@ external_link: "https://www.optibov.com/"
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image: "logo_black.png"
   caption: ""
-  focal_point: "Smart"
-  preview_only: flase
+  focal_point: "BottomRight"
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

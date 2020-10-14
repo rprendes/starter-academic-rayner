@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "My Project Name"
+title: "OPTIBOV"
 summary: ""
 authors: []
 tags: []
@@ -9,7 +9,7 @@ categories: []
 date: 2020-10-14T15:34:20+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.optibov.com/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

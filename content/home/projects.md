@@ -26,12 +26,12 @@ subtitle = ""
   #   tag = "*"
   
   # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  #   name = "IMAGE"
+  #   tag = "Multies-especies Array"
   
   # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+  #   name = "OPTIBOV"
+  #   tag = "Traditional Cattle Breed"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

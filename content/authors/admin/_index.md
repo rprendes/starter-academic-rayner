@@ -8,7 +8,7 @@ authors:
 title: Animals
 role: Researcher
 avatar_filename: img_1080.jpg
-Short: "My immediate goals are strongly oriented to the investigation on animal
+- Short: "My immediate goals are strongly oriented to the investigation on animal
   breeding, genetics, and genomics in livestock populations to satisfy the needs
   of breeders and the industry."
 interests:
